@@ -5,7 +5,7 @@
       "id": "std",
       "title": "標準地図",
       "iconUrl": "",
-      "url": "https://maps.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+      "url": "https://yukibou4822.github.io/gsimaps/image/kazawaxyztles14_20/{z}/{x}/{y}.png",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
