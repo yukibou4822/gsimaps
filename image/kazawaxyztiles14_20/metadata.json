@@ -1,0 +1,12 @@
+{
+  "name": "kazawaxyztiles14_20",
+  "version": "1.1.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "14",
+  "maxzoom": "20",
+  "scale": "1.000000",
+  "bounds": [138.42915850, 36.45122426, 138.43860366, 36.46208270],
+  "profile": "mercator"
+}
